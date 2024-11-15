@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|c:\\users\\admin\\desktop\\prj_idderection_encryption\\project2_\uCD5C\uC885\uCF54\uB4DC\\captureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|solutionrelative:captureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\captureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|solutionrelative:captureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|c:\\users\\admin\\desktop\\prj_idderection_encryption\\project2_\uCD5C\uC885\uCF54\uB4DC\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|solutionrelative:databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|c:\\users\\admin\\desktop\\prj_idderection_encryption\\project2_\uCD5C\uC885\uCF54\uB4DC\\faceid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|solutionrelative:faceid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|c:\\users\\admin\\desktop\\prj_idderection_encryption\\project2_\uCD5C\uC885\uCF54\uB4DC\\faceid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|solutionrelative:faceid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|c:\\users\\admin\\desktop\\prj_idderection_encryption\\project2_\uCD5C\uC885\uCF54\uB4DC\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\faceid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|solutionrelative:faceid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BEA9067-5F37-4BC4-B258-2930A3E9E4B1}|project2.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAlwLAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:33:21.463Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "faceid.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\faceid.cs",
+              "RelativeDocumentMoniker": "faceid.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\faceid.cs",
+              "RelativeToolTip": "faceid.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAtwJUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:28:51.714Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "menu.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\menu.cs",
+              "RelativeDocumentMoniker": "menu.cs",
+              "ToolTip": "C:\\Users\\mo\\source\\repos\\Project2\\menu.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\..\\mo\\source\\repos\\Project2\\menu.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:19:44.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\DatabaseManager.cs",
+              "RelativeToolTip": "DatabaseManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALoAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:42:07.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CaptureForm.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\CaptureForm.cs",
+              "RelativeDocumentMoniker": "CaptureForm.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\CaptureForm.cs",
+              "RelativeToolTip": "CaptureForm.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:33:46.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CaptureForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\CaptureForm.cs",
+              "RelativeDocumentMoniker": "CaptureForm.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\CaptureForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "CaptureForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:33:43.726Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "faceid.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\faceid.Designer.cs",
+              "RelativeDocumentMoniker": "faceid.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\faceid.Designer.cs",
+              "RelativeToolTip": "faceid.Designer.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAIwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:29:49.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "login.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\mo\\source\\repos\\Project2\\login.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\..\\mo\\source\\repos\\Project2\\login.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:03:30.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\mo\\source\\repos\\Project2\\Form3.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\..\\mo\\source\\repos\\Project2\\Form3.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:03:20.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "faceid.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\prj_IDderection_encryption\\Project2_\uCD5C\uC885\uCF54\uB4DC\\faceid.cs",
+              "RelativeDocumentMoniker": "faceid.cs",
+              "ToolTip": "C:\\Users\\mo\\source\\repos\\Project2\\faceid.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\..\\mo\\source\\repos\\Project2\\faceid.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:02:53.557Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
